@@ -1,4 +1,4 @@
-# Dairy_Goods_Sales_Analysis
+# Dairy-Goods-Sales-Analysis-Power-BI
 ## Project Overview
 
 This project explores the dairy goods market in India using a comprehensive dataset covering **dairy farms, products, brands, storage conditions, and sales channels** from 2019 to 2022. The Power BI dashboard provides multi-page interactive visualizations to support data-driven decisions in the dairy industry.
